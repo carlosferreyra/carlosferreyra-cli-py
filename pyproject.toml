@@ -7,7 +7,10 @@
     name = "carlosferreyra"
     readme = "README.md"
     requires-python = ">=3.13"
-version = "0.0.13"
+    version = "0.0.13"
+
+[project.scripts]
+    carlosferreyra = "carlosferreyra.__main__:main"
 
 [build-system]
     build-backend = "uv_build"
