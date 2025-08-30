@@ -7,7 +7,7 @@
     name = "carlosferreyra-cli-py"
     readme = "README.md"
     requires-python = ">=3.13"
-    version = "0.1.0"
+    version = "0.0.12"
 
 [build-system]
     build-backend = "uv_build"
