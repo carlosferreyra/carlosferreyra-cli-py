@@ -3,6 +3,6 @@ revision = 3
 requires-python = ">=3.13"
 
 [[package]]
-name = "carlosferreyra-cli-py"
-version = "0.0.12"
+name = "carlosferreyra"
+version = "0.0.13"
 source = { editable = "." }
